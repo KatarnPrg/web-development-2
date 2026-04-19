@@ -26,7 +26,7 @@ function SetNav() {
                 <li><Link to="/Home">Home</Link></li>
                 <li><Link to="/About">About</Link></li>
                 <li><Link to="/Products">Products</Link></li>
-                <li><Link to="/Form">Products</Link></li>
+                <li><Link to="/Form">Form</Link></li>
             </ul>           
         </nav>
     );
